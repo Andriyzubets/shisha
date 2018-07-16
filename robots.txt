@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /rest/
+Disallow: /__
+Disallow: /catalog/*?s=*
+Disallow: /catalog/*&s=*
+Disallow: /catalog/*?q=*
+Disallow: /brands/*?s=*
+Disallow: /brands/*&s=*
+Host: shishamagic.kiev.ua
+
+Sitemap: http://shishamagic.kiev.ua/sitemap.xml
